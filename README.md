@@ -65,7 +65,7 @@ The system uses classical Digital Image Processing techniques implemented in MAT
 
 1. Clone Repository:
    ```bash
-   git clone https://github.com/DIP-2026-MINI-PROJECT/Whiteboard-Glare-Removal-Using-DIP/tree/main
+   git clone https://github.com/DIP-2026-MINI-PROJECT/Whiteboard-Glare-Removal-Using-DIP.git
    ```
 
 2. Open the cloned project folder in MATLAB.
