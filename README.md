@@ -57,14 +57,15 @@ The system uses classical Digital Image Processing techniques implemented in MAT
 
 ### Contributors:
 
-1. Name (SRN)
-2. Name (SRN)
+1. Sourabh S (PES1UG24EC212)
+2. Sujith Mihira CSS (PES1UG24EC219)
+3. Tejo Mourya Sura (PES1UG24EC227)
 
 ### Steps:
 
 1. Clone Repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/DIP-2026-MINI-PROJECT/Whiteboard-Glare-Removal-Using-DIP/tree/main
    ```
 
 2. Open the cloned project folder in MATLAB.
